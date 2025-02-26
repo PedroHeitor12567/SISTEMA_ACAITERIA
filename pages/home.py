@@ -32,7 +32,4 @@ with col3:
     if st.button("🥤 Guraçaí"):
         st.switch_page("pages/pedir_guaracai.py")
 
-st.checkbox("Copo 250 ml......R$ 5,00")
-st.checkbox("Copo 300 ml......R$ 6,00")
-st.checkbox("Copo 400 ml......R$ 8,00")
-st.checkbox("Copo 500 ml......R$ 10,00")
+
